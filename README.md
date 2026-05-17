@@ -1,0 +1,2 @@
+# PG-Final-Year-Project---Venkatesa-Refineries-Customer-Database-Power-BI-Dashboard-
+Customer Segmentation and Satisfaction Analysis at Venkatesa Refineries Company uses Power BI to analyze customer behavior, preferences, and satisfaction. The study highlights strong customer loyalty, quality products, competitive pricing, and effective marketing strategies that drive business growth and retention.
