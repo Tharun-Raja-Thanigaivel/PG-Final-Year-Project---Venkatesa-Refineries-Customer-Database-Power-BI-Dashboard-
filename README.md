@@ -81,7 +81,7 @@ _Add Power BI Dashboard screenshots here_
 
 ```md
 Example:
-![Dashboard Screenshot](images/dashboard.png)
+(C:\Users\Tharu\Pictures)
 ```
 
 ---
@@ -107,7 +107,7 @@ Example:
 ---
 
 # 👨‍💻 Author
-**Your Name**
+**Tharun Raja Thanigaivel**
 
 ---
 
