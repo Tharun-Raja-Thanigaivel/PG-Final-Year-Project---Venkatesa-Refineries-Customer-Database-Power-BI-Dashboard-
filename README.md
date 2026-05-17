@@ -74,30 +74,6 @@ The study concludes that Venkatesa Refineries Company has successfully implement
 
 Customer satisfaction remains a key pillar for the company’s future expansion and long-term success.
 
----
-
-# 📷 Dashboard Preview
-_Add Power BI Dashboard screenshots here_
-
-```md
-Example:
-(C:\Users\Tharu\Pictures)
-```
-
----
-
-# 📂 Project Structure
-
-```bash
-📁 Customer-Segmentation-Analysis
-│── 📄 README.md
-│── 📊 Customer_Segmentation.pbix
-│── 📁 Dataset
-│── 📁 Images
-```
-
----
-
 # 🚀 Future Enhancements
 - Predictive customer behavior analysis
 - AI-based recommendation systems
