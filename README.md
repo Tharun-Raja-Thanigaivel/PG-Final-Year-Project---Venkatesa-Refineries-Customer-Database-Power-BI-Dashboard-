@@ -1,6 +1,9 @@
 # Customer Segmentation and Satisfaction Analysis  
 ## Venkatesa Refineries Company – Vellakovil, Tiruppur District
 
+Document Preview
+(C:\Users\Tharu\Pictures\Screenshots)
+
 ## 📌 Project Overview
 This project focuses on **Customer Segmentation and Satisfaction Analysis** for Venkatesa Refineries Company located in Vellakovil, Tiruppur District. The study aims to understand customer behavior, preferences, demographics, and satisfaction levels using data visualization techniques in Power BI.
 
